@@ -1,0 +1,27 @@
+html
+	{
+		width:99%;
+		margin-left: 0.4%;
+		margin-top:0%; 
+	}
+
+
+body
+	{
+		width: 100%;
+	}
+
+div
+	{
+		width: 100%;
+	FONT
+		overflow: hidden;  
+	}
+
+.head
+{
+	font-size:2em;
+	font-weight:bold;
+	color:#af6512;
+	float: right;
+}	
